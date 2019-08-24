@@ -5,6 +5,6 @@ Flutterwave Tweet:
 https://twitter.com/moses_okpako/status/1164896583193899008?s=20
 
 GitHub pages link
-https://oem18.github.io/oem18.html
+https://oem18.github.io/okpako.html
 Lucid Blog post in Hng CV to Html Task
 https://lucid.blog/okpakomoses18v/post/1566597848
